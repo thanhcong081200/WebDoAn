@@ -1,0 +1,634 @@
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+E:\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\Admin\Desktop\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\Đồ Án WEB ne\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\Downloads\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojAssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Máy tính\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CopyComplete
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+E:\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\PC\Desktop\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\PC\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojResolveAssemblyReference.cache
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+E:\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojAssemblyReference.cache
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CoreCompileInputs.cache
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+G:\download\KDPM+CNPM\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CopyComplete
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.AssemblyReference.cache
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CopyComplete
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.AssemblyReference.cache
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CopyComplete
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\ADMINTPHCM\Desktop\KDPM+CNPM22\WebBanThietBiDienTu_T5(1-5)\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\File\DAMH_Nhom4_2001181113_TranTanHieu_QuanLyShopQuanAo_All\CNPM\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CopyComplete
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll.config
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\QL_ThietBiTinHoc.pdb
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Providers.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\WebGrease.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\EntityFramework.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Net.Http.WebRequest.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.csproj.CopyComplete
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.dll
+C:\Users\PC\Desktop\CNPM2\ShopQuaoAo_Web\QL_ThietBiTinHoc\QL_ThietBiTinHoc\obj\Debug\QL_ThietBiTinHoc.pdb

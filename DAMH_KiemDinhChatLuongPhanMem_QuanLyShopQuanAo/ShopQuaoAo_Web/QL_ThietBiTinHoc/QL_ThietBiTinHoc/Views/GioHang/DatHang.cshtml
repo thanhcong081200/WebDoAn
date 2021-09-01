@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Đặt Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using QL_ThietBiTinHoc.Models;
+@model List<GioHang>
+
+<section id="cart_items">
+    <div class="container">
+        @if (Model == null || Model.Count() == 0)
+        {
+            <p style="font-size: 2em; padding: 10px; margin: 10px">Giỏ hàng rổng !! </p>
+            <a href="@Url.Action("DanhSachThietBi", "Home")" style="font-size:2em;padding:10px;margin:10px">Vui lòng quay trở lại trang mua hàng !! </a>
+            <br />
+            <br />
+        }
+        else
+        {
+            <div class="table-responsive cart_info">
+                <table class="table table-condensed">
+                    <thead>
+                        <tr class="cart_menu">
+                            <td class="image">Sản phẩm</td>
+                            <td class="description"></td>
+                            <td class="price">Giá bán</td>
+                            <td class="quantity">Số Lượng</td>
+                            <td class="total">Tổng Giá Bán</td>
+                            <td class="delete"></td>
+                            <td></td>
+                        </tr>
+                    </thead>
+
+                    @foreach (var tb in Model)
+                    {
+                        <tr>
+                            <td class="cart_product">
+                                <img src="~/Content/images/@tb.sAnh" width="140" height="200" alt="">
+                            </td>
+                            <td class="cart_description">
+                                <h5>@tb.TenSP</h5>
+                                <h5>Mã sản phẩm: @tb.MASP</h5>
+                                <a href="@Url.Action("ChiTietThietBi", "Home", new { ma = @tb.MASP })" class="btn btn-default add-to-cart">Chi Tiết</a>
+                            </td>
+                            <td class="cart_price">
+                                <p>@tb.sGiaBan</p>
+                            </td>
+                            <td class="cart_total">
+                                <a href="@Url.Action("ThemGioHang", "GioHang", new { ma = @tb.MASP })" class="btn btn-default add-to-cart">+</a>
+                                <p class="cart_total_price">@tb.sSoLuong</p>
+                                <a href="@Url.Action("GiamGioHang", "GioHang", new { ma = @tb.MASP })" class="btn btn-default add-to-cart">-</a>
+                            </td>
+                            <td class="cart_total">
+                                <p class="cart_total_price">@tb.sThanhTien</p>
+                            </td>
+                            <td class="cart_delete">
+                                <a class="cart_quantity_delete" href="@Url.Action("XoaMatHang", "GioHang", new { ma = @tb.MASP })"><i class="fa fa-times"></i></a>
+                            </td>
+                        </tr>
+                    }
+
+                    <tr>
+                        <td>
+                            <h2>Số lượng: <a style="color: red">@ViewBag.TongSoLuong</a></h2>
+                        </td>
+                        <td>
+                            <h2>Tổng số tiền: <a style="color: red">@String.Format("{0:0,0}", @ViewBag.TongTien)</a> VNĐ</h2>
+                        </td>
+                    </tr>
+                </table>
+                <h2 style="text-align:center">THÔNG TIN ĐẶT HÀNG</h2><br />
+                @{
+                     KHACHHANG kh = (KHACHHANG)Session["TaiKhoan"];
+                }
+                <table align="center">
+                    @using(Html.BeginForm()){
+                        @Html.ValidationSummary(true)
+                        <tr style="height:40px">
+                            <td><h5>Họ tên khách hàng:  </h5></td>
+                            <td style="font-weight:bold"><a style="font-size:medium;">&nbsp;&nbsp;@kh.TENKH</a></td>
+                        </tr>
+                        <tr style="height:40px">
+                            <td><h5>Địa chỉ:</h5></td>
+                            <td style="font-weight:bold"><a style="font-size:medium;">@kh.DIACHI</a></td>
+                        </tr>
+                        <tr style="height:40px">
+                            <td><h5>Điện thoại:</h5></td>
+                            <td style="font-weight:bold"><a style="font-size:medium;">@kh.SDT</a></td>
+                        </tr>
+                        <tr style="height:40px">
+                            <td></td>
+                            <td style="font-weight:bold">
+                                <td><a href="@Url.Action("XemGioHang", "GioHang")" class="btn btn-default add-to-cart">Trở lại giỏ hàng</a></td>
+                                <td><button class="btn btn-default add-to-cart" type="submit">Đồng ý đặt hàng</button></td>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        }
+    </div>
+</section>

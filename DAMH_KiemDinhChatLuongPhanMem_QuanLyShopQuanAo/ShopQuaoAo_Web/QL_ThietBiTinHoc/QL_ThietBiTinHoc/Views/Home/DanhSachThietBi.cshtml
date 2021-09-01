@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Danh Sách Sản Phẩm";
+}
+
+@using QL_ThietBiTinHoc.Models;
+@*@using PagedList.Mvc;
+@model PagedList.PagedList<ThietBi>*@
+@model List<SANPHAM>
+<div class="row">
+    <div class="col-sm-3">
+        <div class="left-sidebar">
+            <h2 style="color:#33CCFF">LOẠI QUẦN ÁO</h2>
+            <div class="panel-group category-products">
+                @Html.Action("DanhMucLoai", "Home")
+            </div>
+          <div class="left-sidebar">
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-9">
+        <div class="features_items">
+            <h2 class="title text-center" style="color:#33CCFF">SẢN PHẨM</h2>
+            @foreach (var tb in Model)
+            {
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div style="border:solid;" class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="@Url.Action("ChiTietThietBi", "Home", new { ma = @tb.MASP })">
+                                    <img src="~/Content/images/@tb.HINHANH" height="250px" alt="" /></a>
+                                <h2 style="color: red">@tb.DONGIA VNĐ</h2>
+                                @if (tb.TENSP.Length > 30)
+                                {
+                                    <p>
+                                        <strong title="@tb.TENSP">@tb.TENSP.Substring(0, 30)...</strong>
+                                        <br />                                   
+                                    </p>
+                                }
+                                else
+                                {
+                                    <p>
+                                        <strong title="@tb.TENSP">@tb.TENSP</strong>
+                                        <br />
+                                    </p>
+                                }
+                                <a href="@Url.Action("ThemGioHang", "GioHang", new { ma = @tb.MASP })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Chọn mua</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

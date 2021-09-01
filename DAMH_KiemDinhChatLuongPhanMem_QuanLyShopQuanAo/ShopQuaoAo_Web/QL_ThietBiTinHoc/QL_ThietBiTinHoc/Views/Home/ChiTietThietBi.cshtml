@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Chi Tiết Thiết Bị";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using QL_ThietBiTinHoc.Models;
+@model SANPHAM
+<div class="row">
+    <div class="product-details">
+        <div class="col-sm-5">
+            <div class="view-product">
+                <img src="~/Content/images/@Model.HINHANH" alt="" />
+            </div>
+        </div>
+        <div class="col-sm-7">
+            <div class="product-information">
+                <h1 style="font-weight:bold;color:red;text-transform:uppercase;">@Model.TENSP</h1><br />
+                <h2>Mã sản phẩm:@Model.MASP</h2>
+                <h2>Thông tin chi tiết: <a style="font-size:medium;">@Model.MOTA</a></h2>              
+                <span>
+                    <span>Giá: @Model.DONGIA VNĐ</span>
+                </span>
+                <p><a href="@Url.Action("ThemGioHang", "GioHang", new { ma = @Model.MASP })" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Chọn mua</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+

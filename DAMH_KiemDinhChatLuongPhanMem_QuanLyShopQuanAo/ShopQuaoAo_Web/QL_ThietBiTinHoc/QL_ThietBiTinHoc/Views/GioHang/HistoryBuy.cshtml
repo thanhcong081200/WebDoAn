@@ -1,0 +1,63 @@
+﻿@using QL_ThietBiTinHoc.Models;
+
+@{
+    ViewBag.Title = "Lịch Sử Mua Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<HOADON>
+<div class="row">
+    @*<div class="col-md-3">
+            <ul>
+                <li>
+                    Đơn Hàng Chờ Xử Lý
+                </li>
+                <li>
+                    Đơn Hàng Đang Vận Chuyển
+                </li>
+                <li>
+                    Đơn Hàng Đã Hoàn Thành
+                </li>
+                <li>
+                    Đơn Hàng Bị Hủy
+                </li>
+            </ul>
+        </div>*@
+    <div>
+        <table class="table" style="font-size:medium">
+            <tr>
+                <th>Mã HD</th>
+                <th>Ngày Đặt Hàng</th>
+                <th>Trạng Thái Đơn Hàng</th>
+                <th>Tổng Tiền</th>
+                <th></th>
+                <th></th>
+            </tr>
+            @foreach (HOADON item in Model)
+            {
+        <tr>
+            <td>@item.MAHD</td>
+            <td>@item.NGAYBD</td>
+            <td>@item.TRANGTHAI</td>
+            <td>@item.TONGTIEN</td>
+            <td>
+                <button data-toggle="model" data-target="#chitiet">Chi Tiết</button>
+                @if (item.TRANGTHAI == "Xác Nhận Đơn Hàng")
+                {
+                    <label>Hủy</label>
+                }
+            </td>
+            
+        </tr>
+            }
+        </table>
+    </div>
+</div>
+<div class="modal" id="chitiet" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header"><h2>Chi Tiết Hóa Đơn</h2></div>
+        </div>
+    </div>
+</div>
+<script src="~/Content/Home/js/jquery.js"></script>
+<script src="~/Content/Home/js/bootstrap.min.js"></script>

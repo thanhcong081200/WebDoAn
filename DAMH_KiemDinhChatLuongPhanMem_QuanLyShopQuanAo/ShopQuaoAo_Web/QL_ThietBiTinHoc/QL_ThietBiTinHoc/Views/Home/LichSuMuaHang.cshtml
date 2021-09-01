@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "LichSuMuaHang";
+}
+@using QL_ThietBiTinHoc.Models;
+@model List<CT_HOADON>
+<h2>Lịch sử mua hàng</h2>
+@foreach(var tb in Model)
+            {
+<div class="col-sm-4">
+    <table class="table">
+        <thead>
+            <tr>
+                <th style="font-size:large" scope="col">Mã Hóa Đơn</th>
+                <th style="font-size:large" scope="col">Mã Sản Phẩm</th>
+                <th style="font-size:large" scope="col">Số Lượng</th>
+                <th style="font-size:large" scope="col">Đơn Giá</th>
+                <th style="font-size:large" scope="col">Thành Tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="font-size:large"></td>
+                <td style="font-size:large">test</td style="font-size:large">
+                <td style="font-size:large">test</td>
+                <td style="font-size:large">test</td>
+                <td style="font-size:large">test</td>
+            </tr>
+            <tr>
+                <td style="font-size:large">test1</td>
+                <td style="font-size:large">test1</td>
+                <td style="font-size:large">test1</td>
+                <td style="font-size:large">test</td>
+                <td style="font-size:large">test</td>
+            </tr>
+            <tr>
+                <td style="font-size:large">test2</td>
+                <td style="font-size:large">test2</td>
+                <td style="font-size:large">test2</td>
+                <td style="font-size:large">test</td>
+                <td style="font-size:large">test</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+            }
+
